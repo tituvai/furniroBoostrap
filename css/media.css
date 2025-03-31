@@ -1,0 +1,150 @@
+
+
+
+
+@media (min-width:320px) and (max-width:575px){
+
+/* Home Page Part start  */
+
+/* Header Part Start  */
+
+.navbar-toggler {
+    color: blue;
+    border: 2px solid blue;
+}
+.navbar-toggler:hover{
+    color: red;
+    border: 1px solid red;
+}
+.navbar-nav{
+    background: blueviolet;
+    border-radius: 10px;
+    text-align: center;
+}
+.nav-link{
+    color: #ffffff;
+}
+
+.headerIcon{
+    padding-top: 10px;
+}
+/* Header Part End  */
+
+/* Banner Part Start  */
+#bannerPart {
+    padding-top: 20px;
+    padding-bottom: 39px;
+}
+.bannerCard {
+    padding: 20px 20px;
+}
+.bannerCard h6 {
+    font-size: 10px;
+}
+.bannerCard h1 {
+    font-size: 18px;
+    line-height: 27px;
+    padding-right: 58px;
+}
+.bannerCard p {
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 20px;
+    padding-right: 58px;
+    padding-top: 0px;
+}
+.bannerCard a {
+    font-size: 10px;
+    font-weight: 600;
+
+}
+
+#liveingPart {
+    padding: 70px 0;
+}
+
+.liveingCard h3 {
+    padding-bottom: 10px;
+}
+.productText {
+    margin-bottom: 20px;
+}
+
+/* Footer Part Start  */
+
+.footerText h4 {
+    padding-bottom: 10px;
+    padding-top: 20px;
+}
+.footerMenu li {
+    padding: 8px 0;
+}
+.footerInput{
+    padding-bottom: 15px;
+}
+
+.footerInput input {
+    font-size: 13px;
+}
+.footerBorder p {
+    padding-top: 16px;
+    font-size: 13px;
+}
+
+
+/* ****************************** Home Part End ****************************************** */
+
+
+
+/* **************************** Shop Part Start *************************************** */
+
+.shopOverly {
+    padding: 80px 0;
+}
+
+.fliterFlex h5 {
+    font-size: 15px;
+}
+
+.fliterFlex p {
+    font-size: 10px;
+    padding-left: 5px;
+}
+.fliterFlex p::after {
+    width: 1px;
+    height: 20px;
+
+}
+.filterText h6 {
+    font-size: 15px;
+    margin-left: 5px;
+    padding-top: 15px;
+}
+.filterText h3 {
+    font-size: 13px;
+    padding: 19px 10px;
+}
+
+.shopNext {
+    padding: 6px 15px;
+    margin: 5px;
+
+}
+.shopNext h4 {
+    font-size: 15px;
+}
+
+
+
+/* topy part start  */
+
+.topiText p {
+    font-size: 13px;
+    padding-top: 5px;
+}
+#topiPart {
+    padding: 50px 0;
+}
+/* **************************** Shop Part End *************************************** */
+
+}
