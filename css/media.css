@@ -90,6 +90,10 @@
     padding-top: 16px;
     font-size: 13px;
 }
+.footerInput a {
+    font-size: 14px;
+    margin-left: 5px;
+}
 
 
 /* ****************************** Home Part End ****************************************** */
@@ -100,6 +104,9 @@
 
 .shopOverly {
     padding: 80px 0;
+}
+.productOverly {
+    height: 465px;
 }
 
 .fliterFlex h5 {
@@ -146,5 +153,249 @@
     padding: 50px 0;
 }
 /* **************************** Shop Part End *************************************** */
+
+
+
+
+/* ******************************* About Part Start ************************************ */
+
+/* Header Part Start  */
+
+#aboutPart {
+    padding: 20px 0;
+}
+
+.aboutCrad {
+    display: flex;
+    align-content: stretch;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+
+.aboutText h3 {
+    font-size: 30px;
+    padding-top: 10px;
+}
+.aboutText h6 {
+    font-size: 18px;
+    padding: 10px 0;
+}
+.aboutStar i {
+    padding-right: 5px;
+    font-size: 12px;
+}
+.aboutText p {
+    font-size: 12px;
+    padding-right: 25px;
+}
+.aboutStar p::after {
+    height: 20px;
+}
+
+.aboutButton a {
+    font-size: 10px;
+    padding: 5px 11px;
+    margin-left: 8px;
+}
+.aboutBtn h3 {
+    font-size: 10px;
+    padding: 6px 11px;
+}
+
+.subaHeader h4 {
+    font-size: 16px;
+}
+
+.subaPera p {
+    font-size: 14px;
+    padding: 0 10px;
+}
+.aboutImag {
+    padding-bottom: 15px;
+}
+.productHeader h3 {
+    font-size: 25px;
+}
+/* ******************************* About Part End ************************************ */
+
+
+
+
+
+/* ******************************** Card Part Start ************************************** */
+
+
+
+/* About Header Part Start  */
+
+.cardHead {
+    padding: 20px 0px;
+}
+.cardHead h4 {
+    font-size: 14px;
+    padding: 0 11px;
+}
+.diginText h4 {
+    font-size: 13px;
+}
+.cardOne h4 {
+    margin-top: 10px;
+    margin-left: 15px;
+}
+.cardIcon i {
+    margin-right: 15px;
+}
+.card_Flex {
+    padding-top: 5px;
+    padding-bottom: 15px;
+}
+.cardImg {
+    padding: 20px;
+    margin-left: 0px;
+}
+.cardBtn {
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+/* About Header Part End  */
+
+
+
+/* ******************************** Card Part End ************************************** */
+
+
+/* ************************************ Checkout Part Start ******************************** */
+
+
+#chackoutPart {
+    padding: 30px 0;
+}
+.chackoutHeader {
+    padding-bottom: 30px;
+}
+
+.chackoutInt input {
+    width: 140px;
+}
+.chackoutFrom input {
+    width: 280px;
+    height: 50px;
+    margin-bottom: 15px;
+}
+
+.chackFlex {
+    margin: 5px;
+}
+.chackProduct h3 {
+    font-size: 20px;
+    padding-bottom: 20px;
+}
+.chackSub h3 {
+    font-size: 20px;
+    padding-bottom: 20px;
+}
+.chackProduct p {
+    font-size: 13px;
+}
+.chackSub p {
+    font-size: 13px;
+}
+.chackSub h6 {
+    font-size: 15px;
+}
+
+
+
+.chackoutDricet {
+    display: flex;
+    margin: 0 10px;
+}
+
+.chackpera p {
+    font-size: 14px;
+    padding: 10px 10px;
+}
+
+.checkRing {
+    margin: 0 10px;
+    align-items: center;
+}
+.checkRing p {
+    padding-top: 0px;
+}
+
+.checkRing input{
+    margin-bottom: 15px;
+}
+.chackoutPera p {
+    font-size: 14px;
+    font-weight: 400;
+    padding: 10px 10px;
+}
+.chackBtn {
+    padding-top: 20px;
+}
+
+/* ************************************ Checkout Part End ******************************** */
+
+
+
+
+/* *************************************** Contact Part Start ******************************** */
+
+
+
+.contactHeader h3 {
+    font-size: 22px;
+}
+.contactHeader p {
+    font-size: 14px;
+    padding-bottom: 30px;
+}
+
+.contactFlex {
+    padding-top: 20px;
+}
+
+.contactForm input {
+    width: 280px;
+    height: 50px;
+    font-size: 15px;
+    font-weight: 400;
+    margin-bottom: 13px;
+}
+.contactForm textarea {
+    width: 280px;
+    font-size: 15px;
+    font-weight: 400;
+}
+
+
+/* *************************************** Contact Part End ******************************** */
+
+
+/* ****************************************** Comparison Part Start  ************************* */
+
+
+.compearView h3 {
+    font-size: 20px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+.compearView a {
+    font-size: 15px;
+}
+.comparisonImages{
+    padding-top: 30px;
+}
+
+.comparisonAdd h3 {
+    padding-top: 20px;
+}
+
+
+
+/* ****************************************** Comparison Part End  ************************* */
 
 }
